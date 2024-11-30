@@ -1,0 +1,1 @@
+export { TabUserInfoPage } from './TabUserInfoPage'

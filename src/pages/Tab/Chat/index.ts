@@ -1,0 +1,1 @@
+export { TabChatPage } from './TabChatPage'

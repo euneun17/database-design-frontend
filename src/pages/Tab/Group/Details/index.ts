@@ -1,0 +1,1 @@
+export { TabGroupDetailsPage } from './TabGroupDetailsPage'

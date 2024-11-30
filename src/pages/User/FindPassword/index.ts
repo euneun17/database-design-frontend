@@ -1,0 +1,1 @@
+export { UserFindPasswordPage } from './UserFindPasswordPage'
